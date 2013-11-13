@@ -1,0 +1,7 @@
+git init
+git clone git@github.com:________/__________.git
+git checkout -b "localName" origin/"remoteName"
+... Work on files ...
+git add ..File..
+git commit -m "message"
+git push "remoteRepo" "localName"
